@@ -25,4 +25,7 @@
 * [第二章：通訊壁壘與單方面的工業屠殺](volumes/volume_04/chapter_02.md)
 * [第三章：代工鏈剝削與殖民地的絕對內卷](volumes/volume_04/chapter_03.md)
 
+### 第五卷：IPO 上市與神食控制
+* [第一章：賽博龐克的大明與紫金神食的專利](volumes/volume_05/chapter_01.md)
+
 *(後續卷次與章節即將推出)*
