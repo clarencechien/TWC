@@ -18,5 +18,6 @@
 * [第一章：產能擴張與黑船的遠征](volumes/volume_03/chapter_01.md)
 * [第二章：黑船叩關與貨幣霸權的強制結算](volumes/volume_03/chapter_02.md)
 * [第三章：氣象預測模型與大空頭的金融絞殺](volumes/volume_03/chapter_03.md)
+* [第四章：不良資產重組與 NCO 體系的強制植入](volumes/volume_03/chapter_04.md)
 
 *(後續卷次與章節即將推出)*
