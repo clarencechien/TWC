@@ -29,5 +29,6 @@
 ### 第五卷：IPO 上市與神食控制
 * [第一章：賽博龐克的大明與紫金神食的專利](volumes/volume_05/chapter_01.md)
 * [第二章：思想專利化與學術界的大規模兼併](volumes/volume_05/chapter_02.md)
+* [第三章：IPO 路演與全球董事會的血腥重組](volumes/volume_05/chapter_03.md)
 
 *(後續卷次與章節即將推出)*
