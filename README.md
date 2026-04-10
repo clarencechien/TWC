@@ -14,7 +14,4 @@
 * [第三章：視距外的屠殺與高壓氣泡魚雷](volumes/volume_02/chapter_03.md)
 * [第四章：福特式流水線與安平重工區的崛起](volumes/volume_02/chapter_04.md)
 
-### 第三卷：B輪擴張：黑船來航與金融絞殺
-* [第一章：資本缺口與黑船計畫的立項](volumes/volume_03/chapter_01.md)
-
 *(後續卷次與章節即將推出)*
