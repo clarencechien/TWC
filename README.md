@@ -35,4 +35,5 @@
 ### 第六卷：永續經營與董事會的黃昏
 * [第一章：資產折舊與永續經營的倒數計時](volumes/volume_06/chapter_01.md)
 * [第二章：神明的黃昏與代碼的繼承](volumes/volume_06/chapter_02.md)
-* [第三章：百年自動運營協定與新上帝的誕生（結局）](volumes/volume_06/chapter_03.md)
+* [第三章：百年自動運營協定與系統的無限擴張（結局）](volumes/volume_06/chapter_03.md)
+* [第四章：後記——星際資產負債表的無限延伸](volumes/volume_06/chapter_04.md)
