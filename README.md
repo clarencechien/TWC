@@ -31,4 +31,7 @@
 * [第二章：思想專利化與學術界的大規模兼併](volumes/volume_05/chapter_02.md)
 * [第三章：IPO 路演與全球董事會的血腥重組](volumes/volume_05/chapter_03.md)
 
+### 第六卷：永續經營與董事會的黃昏
+* [第一章：資產折舊與永續經營的倒數計時](volumes/volume_06/chapter_01.md)
+
 *(後續卷次與章節即將推出)*
