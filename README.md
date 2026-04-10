@@ -20,4 +20,7 @@
 * [第三章：氣象預測模型與大空頭的金融絞殺](volumes/volume_03/chapter_03.md)
 * [第四章：不良資產重組與 NCO 體系的強制植入](volumes/volume_03/chapter_04.md)
 
+### 第四卷：C輪壟斷與十字軍東征
+* [第一章：反壟斷聯盟與大員島的電氣化神經](volumes/volume_04/chapter_01.md)
+
 *(後續卷次與章節即將推出)*
