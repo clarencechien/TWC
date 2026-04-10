@@ -23,5 +23,6 @@
 ### 第四卷：C輪壟斷與十字軍東征
 * [第一章：反壟斷聯盟與大員島的電氣化神經](volumes/volume_04/chapter_01.md)
 * [第二章：通訊壁壘與單方面的工業屠殺](volumes/volume_04/chapter_02.md)
+* [第三章：代工鏈剝削與殖民地的絕對內卷](volumes/volume_04/chapter_03.md)
 
 *(後續卷次與章節即將推出)*
